@@ -1,4 +1,4 @@
-#### Taller01-Snake
+# Taller01-Snake
 ## Conflicto#1
 ![Error01](Images/Error01.jpg)
 ## Conflicto#2
